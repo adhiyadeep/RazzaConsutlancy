@@ -1,0 +1,7 @@
+{
+  "name": "RazzaConsulting",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

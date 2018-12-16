@@ -1,0 +1,53 @@
+page-loctation {
+    .trans
+    {
+        background: transparent;
+    }
+
+    .col-12 {
+      -webkit-box-flex: 0;
+      -webkit-flex: 0 0 100%;
+      -ms-flex: 0 0 100%;
+      flex: 0 0 100%;
+      width: 100%;
+      max-width: 100%;
+      padding: 0px;
+  }
+
+    .bgimg {
+        background: url(../assets/imgs/lightgreen.png) no-repeat center center fixed;
+        background-size: cover !important;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+        z-index: 0;
+        overflow: hidden;
+      }
+
+      .header-text{
+        text-align: center;
+        margin-top: 8%;
+        margin-right: 8%;
+        font-family: unset;
+        color: white;
+        font-size: 20px;
+      }
+
+      .toolbar-title-md {
+        font-size: 2rem;
+        font-weight: 500;
+        color:white;
+        padding: 0px 12px;
+    }
+
+      .item_text{
+        background: transparent;
+        color: white;
+      }
+      .contact-text
+      {
+          padding-left: 89px;
+      }
+}

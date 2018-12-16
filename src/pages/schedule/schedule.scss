@@ -1,0 +1,114 @@
+page-schedule {
+    .trans
+    {
+        background: transparent;
+    }
+
+    .bgimg {
+        background: url(../assets/imgs/lightgreen.png) no-repeat center center fixed;
+        background-size: cover !important;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+        z-index: 0;
+        overflow: hidden;
+      }
+
+      .tab-bg {
+        background: url(../assets/imgs/tab_bar.png) no-repeat center center fixed;
+        background-size: cover !important;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+        z-index: 0;
+        overflow: hidden;
+        overflow: hidden;
+      }
+
+      .header-text{
+        text-align: center;
+        margin-top: 8%;
+        margin-right: 8%;
+        font-family: unset;
+        color: white;
+        font-size: 20px;
+      }
+
+      .toolbar-title-md {
+        font-size: 2rem;
+        font-weight: 500;
+        color:white;
+        padding: 0px 12px;
+    }
+
+   
+
+      .item_text{
+        background: transparent;
+        text-align: center;
+        font-size: 17px;
+        color: white;
+      }
+
+      .text-months{
+        font-size: 14px;
+        color: white;
+        letter-spacing: 5px;
+      }
+
+      .scehduleBox{
+        background: url(../assets/imgs/tab_bar.png) no-repeat center center fixed;
+        background-size: cover !important;
+        position: relative; 
+        width: 100%; /* for IE 6 */
+      }
+
+      .scehduleBoxrighttext { 
+        position: absolute; 
+        left: 139px !important;
+        top: 140px;
+        width: 100%; 
+        font-size: 14px;
+     }
+
+     .scehduleBoxlefttext
+     {
+      bottom: 135px;
+      color: white;
+      font-size: 60px;
+      left: 28px !important;
+      position: relative;
+     }
+
+     .scehduleBoxlefttext2
+     {
+      bottom: 205px;
+      color: white;
+      font-size: 60px;
+      left: 28px !important;
+      position: relative;
+     }
+
+
+ 
+   .scehduleBoxrighttext1 {
+    position: absolute;
+    left: 139px !important;
+    top: 278px;
+    width: 100%;
+    font-size: 14px;
+}
+
+.scehduleBoxrighttext2{
+  bottom: 134px;
+  color: black;
+  font-size: 14px;
+  left: 141px !important;
+  position: relative;
+}
+
+}
